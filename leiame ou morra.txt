@@ -1,0 +1,24 @@
+╔══════════════════════════════════════════════╗
+║      Tutorial do bagulho show de bola             
+║                                           
+║
+╠  ◉ utils.py: é o backend da parada, vai ler
+║     todas as linhas e colunas preenchidas
+║     e gerar uma lista. Use o save_seq()
+║     para poder usar esses dados depois
+║
+╠  ◉ use o arquivo main.py para ler o excel!
+║
+╠  ◉ dados salvos pelo save_seq serao
+║    guardados na pasta seqs
+║
+╠  ◉ test.py: visualizar as sequencias
+║     geradas pelo utils.py
+║
+╠  ◉ /main: pasta com os modulos para fazer o create 
+║    table e os inserts, tem outros comandos tbm, 
+║    se precisar
+║
+╠  ◉ bibliotecas: pandas, peewee, pickle, openpyxl, os
+║         
+╚══════════════════════════════════════════════╝
